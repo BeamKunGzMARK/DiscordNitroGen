@@ -1,4 +1,4 @@
-# DiscordNitroGenerator
+# **DiscordNitroGenerator**
 
 ![Picture](https://imgur.com/a/bqZvI83)
 
